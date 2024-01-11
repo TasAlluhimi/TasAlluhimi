@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Tasneem 💞️
-- 👀 I’m interested in web development and UIUX Design
-- 🌱 I’m currently on JavaScript Development Bootcamp
+- 🌱 I’m Front-end developer and UIUX Designer!
 - 📫 You can reach me on LinkedIn or via my email✨
 
 <!---
