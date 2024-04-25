@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tasneem 💞️
-- 🌱 I’m Front-end developer and UIUX Designer!
+- 🌱 I’m Front-end developer and UIUX Designer @ SAFF!
 - 📫 You can reach me on LinkedIn or via my email✨
 
 <!---
